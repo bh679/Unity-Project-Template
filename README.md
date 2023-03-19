@@ -1,2 +1,4 @@
-# AI-Judge-Simulator
-You compete with a friend / another player to convince the ai judge that you should win the case and your client is innocent. 
+# Unity-Project-Template
+ - Unity Project Setting
+ - Git Ignore
+ - My Fav License
